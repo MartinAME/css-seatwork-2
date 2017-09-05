@@ -3,8 +3,8 @@ body {
 }
 
 header,footer {
-    background-color: black;
-    color: red;
+    background-color: gray;
+    color: white;
     overflow: hidden;  
     width: 100%;
 }
